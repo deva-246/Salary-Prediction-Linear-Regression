@@ -25,8 +25,25 @@ Predicting salary of a new joinee in a company with the previous records.
 9. Obtain the expected results in a scatter plot with required salary w.r.t experience in years.
 10. Calculate the residuals with - MAE , MSE, RMSE
 
+
+    
+
 **Visualization Results**
 ![image](https://github.com/deva-246/Salary-Prediction-Linear-Regression/assets/75877347/90c85fbd-87a3-4fbe-bbcf-53bd851e1cc3)
+![image](https://github.com/deva-246/Salary-Prediction-Linear-Regression/assets/75877347/759de73d-a9fe-4000-9fbe-26663469e85f)
+![image](https://github.com/deva-246/Salary-Prediction-Linear-Regression/assets/75877347/e9991a19-e011-44b1-8838-74339a08e75d)
+![image](https://github.com/deva-246/Salary-Prediction-Linear-Regression/assets/75877347/14b1d60b-5623-4aba-92bc-82104c0c292f)
+![image](https://github.com/deva-246/Salary-Prediction-Linear-Regression/assets/75877347/8a7e8ed6-ac63-449d-b894-37eaaaae725b)
+![image](https://github.com/deva-246/Salary-Prediction-Linear-Regression/assets/75877347/60c1c702-2589-41da-bdb8-9d7b9f1963d8)
+
+**Metrics Check - Residuals calculation**
+MAE: 3426.4269374307078
+MSE: 21026037.329511296
+RMSE: 4585.4157204675885
+
+
+
+
 
 
     
